@@ -1,0 +1,123 @@
+*{
+    margin: 8px;
+}
+.contenedor {
+    display: grid;
+    grid-template-columns: 320px;  
+    grid-template-rows: 320px 320px 320px;
+     display: none;
+}
+.caja1 {
+ background-color: blueviolet;
+ width: 320px;
+ height: 320px;
+ 
+}
+.caja2 {
+    background-color: black;
+    width: 320px;
+    height: 320px;
+    
+ }
+.caja3 {
+    background-color: rgb(95, 226, 43);
+    width: 320px;
+    height: 320px;
+   }  
+
+ *{
+    margin: 8px;
+ } 
+.contenedor2 {
+    display: grid;
+    grid-template-columns: 768px 768px;  
+    grid-template-rows: 321px 321px 321px;
+    display: flex;
+    flex-direction: column-reverse;
+    display: none;
+    
+}
+.caja4 {
+background-color: rgb(98, 43, 226); 
+
+}
+.caja5 {
+ background-color: rgb(196, 106, 121);
+}
+.caja6 {
+background-color: rgb(166, 230, 65);
+}  
+.caja7 {
+background-color: rgb(124, 11, 223);
+}
+.caja8 {
+background-color: rgb(102, 53, 8);
+}
+.caja9 {
+background-color: rgb(19, 56, 3);
+}   
+
+*{
+    margin: 8px;
+    
+ } 
+.contenedor3 {
+    display: grid;
+    grid-template-columns: 769px 769px 769px;  
+    grid-template-rows: 321px 321px 321px;      
+    display: flex;
+    flex-direction: column-reverse; 
+}
+ .caja10 {
+background-color: rgb(98, 43, 226); 
+width: 800px;
+height: 321px;
+ }
+ .caja11 {
+ background-color: rgb(196, 106, 121);
+ width: 800px;
+height: 321px;
+ }
+.caja12 {
+background-color: rgb(166, 230, 65);
+width: 800px;
+height: 321px;
+} 
+ .caja13 {
+background-color:rgb(124, 11, 223);
+width: 800px;
+height: 321px;
+}
+.caja14{
+ background-color: aqua;
+ width: 800px;
+height: 321px;
+}
+ .caja15 {
+background-color: rgb(102, 53, 8);
+width: 800px;
+height: 321px;
+}
+ .caja16 {
+background-color:rgb(19, 56, 3);
+width: 800px;
+height: 321px;
+}   
+ .caja17 {
+ background-color: burlywood;
+ width: 800px;
+height: 321px;
+}
+ .caja18 {
+background-color:indianred;
+width: 800px;
+height: 321px;
+}
+ .caja19 {
+background-color: green;
+width: 800px;
+height: 321px;
+}   
+
+
+
